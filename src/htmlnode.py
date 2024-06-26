@@ -8,9 +8,10 @@ class HTMLNode:
     def to_html(self):
         raise NotImplementedError("to_html method not implemented")
     
-    def props_to_html(self): 
+  
+    #def props_to_html(self): 
 
-        prop_str = ""
+        #prop_str = ""
 
-        for prop in self.props:
+        #for prop in self.props:
             
